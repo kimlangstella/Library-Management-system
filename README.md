@@ -51,7 +51,7 @@ Make sure you have the following installed:
 ```bash
 npm install
 
----
+```
 
 ### Run the Development Server
 
